@@ -10,7 +10,7 @@ h1{
 .red-color{
     color: red;
 }
-section{
+.flexible{
     display: flex;
     margin-bottom: 100px;
 }
